@@ -1,0 +1,12 @@
+# Ambientes Virtuais e Segredos
+.env
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Python (Byte-compiled / caches)
+**/__pycache__/
+*.py[cod]
