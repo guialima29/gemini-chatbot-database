@@ -44,7 +44,7 @@ The application is developed in Python, using:
 The database used is Pagila, a sample inspired by the classic Sakila database and adapted for PostgreSQL. Pagila simulates a video rental store, with tables for customers, films, inventory, payments, and more. This repository is intended for educational purposes and as a demonstration of how AI can be integrated with a relational database.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/guialima29/reading-database-with-ia/refs/heads/main/_diagrams/flow-diagram.png"/>
-<img src="https://raw.githubusercontent.com/guialima29/reading-database-with-ia/refs/heads/main/_diagrams/process-diagram.png"/>
-<img src="https://raw.githubusercontent.com/guialima29/reading-database-with-ia/refs/heads/main/_diagrams/execution-map-diagram.png"/>
+<img src="https://raw.githubusercontent.com/guialima29/gemini-chatbot-database/refs/heads/main/_diagrams/flow-diagram.png"/>
+<img src="https://raw.githubusercontent.com/guialima29/gemini-chatbot-database/refs/heads/main/_diagrams/process-diagram.png"/>
+<img src="https://raw.githubusercontent.com/guialima29/gemini-chatbot-database/refs/heads/main/_diagrams/execution-map-diagram.png"/>
 </div>
